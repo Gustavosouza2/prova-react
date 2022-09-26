@@ -21,7 +21,7 @@
 		["id" : "2", "cep" : "20051450",  "titular" : "gabriel soares", "email" : "gabrielsoares@gmail.com", "cpf" : "50294536587"],
 		["id" : "3", "cep" : "59494201",  "titular" : "esther souza", "email" : "esthersouza@gmail.com", "cpf" : "50894850345"],
 		["id" : "4", "cep" : "30110052",  "titular" : "arnaldo pereira", "email" : "arnaldopereira.com", "cpf" : "50217856472"],
-		["id" : "5", "cep" : "39141760",  "titular" : "rafaela santana", "email" : "rafaelasantana@gmail.com", "cpf" : "50178529573"] 
+		["id" : "5", "cep" : "39141760",  "titular" : "rafaela santana", "email" : "rafaelasantana@gmail.com", "cpf" : "50178529573"], 
 	]
 	
 }
