@@ -1,27 +1,27 @@
 {
 	"inputs" : [
-		["id" : "1", "nome" : "gustavo souza", "email" : "gustavoleonsouza@gmail.com", "celular" : "948019137", "UF" : "SP", "Cidade" : "São Paulo", "conta de luz mensal" : "45", "código promocional" : "HFAU4KD"],
-		["id" : "2", "nome" : "gabriel soares", "email" : "gabrielsoares@gmail.com", "celular" : "95891025", "UF" : "RJ", "Cidade" : "Rio de Janeiro", "conta de luz mensal" : "55", "código promocional" : "GIRDMMD"],
-		["id" : "3", "nome" : "esther souza", "email" : "esthersouza@gmail.com", "celular" : "925019146", "UF" : "ES", "Cidade" : "Espirito Santo", "conta de luz mensal" : "85", "código promocional" : "5I4MDK"],
-		["id" : "4", "nome" : "arnaldo pereira", "email" : "arnaldopereira.com", "celular" : "99562935", "UF" : "BH", "Cidade" : "Belo Horizonte", "conta de luz mensal" : "65", "código promocional" : "ADKDMWW"],
-		["id" : "5", "nome" : "rafaela santana", "email" : "rafaelasantana@gmail.com", "celular" : "95781939", "UF" : "MG", "Cidade" : "Minas Gerais", "conta de luz mensal" : "80", "código promocional" : "RMADSDJ"]
+		{"id" : "1", "nome" : "gustavo souza", "email" : "gustavoleonsouza@gmail.com", "celular" : "948019137", "UF" : "SP", "Cidade" : "São Paulo", "conta de luz mensal" : "45", "código promocional" : "HFAU4KD"},
+		{"id" : "2", "nome" : "gabriel soares", "email" : "gabrielsoares@gmail.com", "celular" : "95891025", "UF" : "RJ", "Cidade" : "Rio de Janeiro", "conta de luz mensal" : "55", "código promocional" : "GIRDMMD"},
+		{"id" : "3", "nome" : "esther souza", "email" : "esthersouza@gmail.com", "celular" : "925019146", "UF" : "ES", "Cidade" : "Espirito Santo", "conta de luz mensal" : "85", "código promocional" : "5I4MDK"},
+		{"id" : "4", "nome" : "arnaldo pereira", "email" : "arnaldopereira.com", "celular" : "99562935", "UF" : "BH", "Cidade" : "Belo Horizonte", "conta de luz mensal" : "65", "código promocional" : "ADKDMWW"},
+		{"id" : "5", "nome" : "rafaela santana", "email" : "rafaelasantana@gmail.com", "celular" : "95781939", "UF" : "MG", "Cidade" : "Minas Gerais", "conta de luz mensal" : "80", "código promocional" : "RMADSDJ"}
 
 	],
 
 	"proposta" : [
-		["id" : "1", "preço" : "45",  "solução" : "44.05", "conta" : "37", "fatura" : "6.43", "mês" : "0.95", "ano" : "11.4"],
-		["id" : "2", "preço" : "55",  "solução" : "53.05", "conta" : "39.89", "fatura" : "13.16", "mês" : "1.95", "ano" : "23.4"],
-		["id" : "3", "preço" : "85",  "solução" : "80.05", "conta" : "46.68", "fatura" : "33.37", "mês" : "4.95", "ano" : "59.4"],
-		["id" : "4", "preço" : "65",  "solução" : "62.05", "conta" : "42.15", "fatura" : "19.9", "mês" : "20.95", "ano" : "35.4"],
-		["id" : "5", "preço" : "80",  "solução" : "75.55", "conta" : "45.55", "fatura" : "30", "mês" : "4.45", "ano" : "53.4"]
+		{"id" : "1", "preço" : "45",  "solução" : "44.05", "conta" : "37", "fatura" : "6.43", "mês" : "0.95", "ano" : "11.4"},
+		{"id" : "2", "preço" : "55",  "solução" : "53.05", "conta" : "39.89", "fatura" : "13.16", "mês" : "1.95", "ano" : "23.4"},
+		{"id" : "3", "preço" : "85",  "solução" : "80.05", "conta" : "46.68", "fatura" : "33.37", "mês" : "4.95", "ano" : "59.4"},
+		{"id" : "4", "preço" : "65",  "solução" : "62.05", "conta" : "42.15", "fatura" : "19.9", "mês" : "20.95", "ano" : "35.4"},
+		{"id" : "5", "preço" : "80",  "solução" : "75.55", "conta" : "45.55", "fatura" : "30", "mês" : "4.45", "ano" : "53.4"}
 	],
 
 	"assinatura" : [
-		["id" : "1", "cep" : "08043560",  "titular" : "gustavo souza", "email" : "gustavoleonsouza@gmail.com", "cpf" : "50214574890"],
-		["id" : "2", "cep" : "20051450",  "titular" : "gabriel soares", "email" : "gabrielsoares@gmail.com", "cpf" : "50294536587"],
-		["id" : "3", "cep" : "59494201",  "titular" : "esther souza", "email" : "esthersouza@gmail.com", "cpf" : "50894850345"],
-		["id" : "4", "cep" : "30110052",  "titular" : "arnaldo pereira", "email" : "arnaldopereira.com", "cpf" : "50217856472"],
-		["id" : "5", "cep" : "39141760",  "titular" : "rafaela santana", "email" : "rafaelasantana@gmail.com", "cpf" : "50178529573"], 
+		{"id" : "1", "cep" : "08043560",  "titular" : "gustavo souza", "email" : "gustavoleonsouza@gmail.com", "cpf" : "50214574890"},
+		{"id" : "2", "cep" : "20051450",  "titular" : "gabriel soares", "email" : "gabrielsoares@gmail.com", "cpf" : "50294536587"},
+		{"id" : "3", "cep" : "59494201",  "titular" : "esther souza", "email" : "esthersouza@gmail.com", "cpf" : "50894850345"},
+		{"id" : "4", "cep" : "30110052",  "titular" : "arnaldo pereira", "email" : "arnaldopereira.com", "cpf" : "50217856472"},
+		{"id" : "5", "cep" : "39141760",  "titular" : "rafaela santana", "email" : "rafaelasantana@gmail.com", "cpf" : "50178529573"} 
 	]
 	
 }
